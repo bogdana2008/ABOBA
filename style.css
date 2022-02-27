@@ -1,0 +1,78 @@
+body {
+    font-family: sans-serif;
+}
+nav,header {
+    border: 5px solid IndianRed;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+    background-color: PowderBlue;
+}
+header {
+    border: 0px solid IndianRed;
+    border-radius: 9px;
+    padding: 9px;
+    margin: 9px;
+}
+
+header a{
+    border: 5px solid IndianRed;
+    border-radius: 100px;
+    padding: 6px;
+    margin: 5px;
+    background-color: LightBlue;
+    color: black;
+}
+nav {
+text-align:center;
+text-decoration: 0px;
+}
+nav a{
+text-align:center;
+}
+header p,header img{
+   background-color: LightBlue;
+   border: 0px solid IndianRed;
+    border-radius: 9px;
+    padding: 9px;
+    margin: 9px;
+}
+h1{
+    text-align:center;
+    color: MidnightBlue;
+    font-size: 50px;
+    }
+footer{
+    text-align:center;
+    color: black;
+    border: 5px solid IndianRed;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+    background-color: PowderBlue;
+}
+footer p{
+    text-align:center;
+    color: black;
+    border: 5px solid IndianRed;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+    background-color: PowderBlue;
+}
+.put{
+    border: 5px solid IndianRed;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+    background-color: PowderBlue;
+    text-align:center;
+    font-size: 40px;
+}
+header img {
+    padding: 5px;
+    margin: 5px;
+    background-color: PowderBlue;
+    text-align:center;
+    font-size: 408px;
+}
